@@ -22,23 +22,6 @@ TensorFlow (Deep learning)
 
 Hugging Face Transformers (LLMs for NLP)
 
-📂 Project Structure
-
-├── IPL_Prediction
-│   ├── data/               # Historical IPL data
-│   ├── models/             # Trained ML models
-│   ├── notebooks/          # Jupyter notebooks
-│   ├── scripts/            # Training & prediction scripts
-│   └── README.md
-│
-├── Research_Summarization
-│   ├── data/               # Research articles dataset
-│   ├── models/             # Summarization models
-│   ├── notebooks/          # Jupyter notebooks
-│   ├── scripts/            # Summarization pipeline scripts
-│   └── README.md
-│
-└── requirements.txt        # Dependencies
 
 
 📌 Features
